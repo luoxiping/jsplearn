@@ -23,7 +23,6 @@ public class LoginServlet2 extends HttpServlet {
     public LoginServlet2() {
         super();
     }
-
     
 	@Override
 	public void init() throws ServletException {
