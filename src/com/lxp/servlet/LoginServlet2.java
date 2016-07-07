@@ -18,6 +18,7 @@ import com.lxp.service.CheckUserService;
 public class LoginServlet2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
     private CheckUserService cku = new CheckUserService();   
+    
     /**
      * @see HttpServlet#HttpServlet()
      */
