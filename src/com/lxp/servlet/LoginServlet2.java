@@ -24,6 +24,7 @@ public class LoginServlet2 extends HttpServlet {
         super();
     }
 
+    
 	@Override
 	public void init() throws ServletException {
 		super.init();
